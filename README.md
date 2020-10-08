@@ -1,2 +1,1 @@
-# senior-project
-Guest Sentiment Analysis &amp; Guest Behavior Prediction
+# Guest Sentiment Analysis &amp; Guest Behavior Prediction
